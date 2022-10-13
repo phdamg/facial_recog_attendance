@@ -78,3 +78,7 @@ Face_recognition
 To do
 1.	Increase the training sample from 1 to 9 to increase accuracy.
 2.	Deploy on the cloud
+
+
+![image](https://user-images.githubusercontent.com/114836975/195599156-ecd683dd-e26a-4f8e-af32-00d1d8c26dde.png)
+
