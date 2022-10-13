@@ -82,3 +82,8 @@ To do
 
 ![image](https://user-images.githubusercontent.com/114836975/195599156-ecd683dd-e26a-4f8e-af32-00d1d8c26dde.png)
 
+Attendance stored in AWS-RDS  
+![image](https://user-images.githubusercontent.com/114836975/195632819-a7ecaf4f-6860-479a-82c5-4f9e34f988ce.png)
+
+![image](https://user-images.githubusercontent.com/114836975/195632546-b5107dfd-3350-420a-89e5-29d09bc76cae.png)
+
